@@ -1,9 +1,10 @@
 # Dump Notes and Materials
+
 A collection of resources, notes, and tools for learning Windows Active Directory and Active Directory penetration testing. My long-term prep for CPTS and OSCP.
 
-
+```
 /Active-Directory-Labs
-|
+│
 ├── 01_Fundamentals
 │   ├── AD_Basics
 │   ├── Authentication_Kerberos_NTLM
@@ -48,7 +49,6 @@ A collection of resources, notes, and tools for learning Windows Active Director
 │   └── Metasploit
 │
 ├── 09_CheatSheets
-│
 ├── 10_Notes
-│
 └── 11_Writeups
+```
