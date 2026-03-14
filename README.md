@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Windows.png" alt="Windows Red Team Banner" width="100%">
+</p>
+
+
 # Dump Notes and Materials
 
 A collection of resources, notes, and tools for learning Windows Active Directory and Active Directory penetration testing. My long-term prep for CPTS and OSCP.
